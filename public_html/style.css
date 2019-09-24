@@ -1,0 +1,276 @@
+﻿/*kolory:
+fiolet: #865fc5
+
+ciemny szary: #1e1e1e   tło
+jasniejszy: #252526     nawigacja
+jeszcze jaśniejszy: #2d2d2d     logo
+najjaśniejszy: #3c3c3c      male szczegoly
+
+kolor tekstu jasny: #ededed
+kolor tekstu ciemny: #555
+*/
+
+body
+{
+    margin:0;
+    background-color:#1e1e1e;
+    color:#ededed;
+    font-size: 17px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1.logo
+{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Baloo Chettan', cursive;
+    color:#ededed;
+    margin-top:0px;
+    margin-bottom:0px;
+    padding:35px;
+}
+
+header
+{
+    margin-top:0;
+}
+
+#topheader
+{
+    background-color:#2d2d2d;
+}
+
+#roller
+{
+    color:#865fc5;
+}
+
+#nawigacja
+{
+    background-color:#252526;
+    text-align: center;
+    margin-top:0;
+    margin-bottom:0;
+    padding:0;
+    border-top: 1px solid #663fa557;
+	border-bottom: 1px solid #663fa544;
+}
+
+.menu
+{
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+	font-size: 18px;
+	height: 35px;
+	line-height: 200%;
+	display: inline-block;
+}
+
+.menu a
+{
+	color: #ffffff;
+	text-decoration: none;
+    display: block;
+    padding :3px;
+}
+
+.menu > li
+{
+	float: left;
+	width: 150px;
+	height: 40px;
+	border-right: 1px dotted #3c3c3c;
+}
+
+.menu > li:first-child
+{
+	border-left: 1px dotted #3c3c3c;
+}
+
+.menu > li:hover
+{
+	background-color:#1e1e1e;
+}
+
+.menu > li:hover > a
+{
+	color: #663fa5d5;
+}
+
+
+.szablon
+{
+    margin-left:auto;
+    margin-right: auto;
+    width:800px;
+    text-align: center;
+    padding:0;
+}
+
+
+h2
+{
+    font-size: 40px;
+    font-weight:700;
+    color: #865fc5;
+    margin-bottom:20px;
+}
+
+figure
+{
+    margin: 0;
+    margin-right: 15px;
+    float:left;
+    padding:0;
+    /*width:215px;
+    height:215px;*/
+}
+
+.aboutmeramka
+{
+    /*height: 205px;*/
+    background-color: #2d2d2d;
+    padding:15px;
+    /*margin-bottom: 70px;*/
+}
+
+.aboutme
+{
+    /*margin: 10px;*/
+}
+
+.aboutmetext
+{
+    float:left;
+    width:540px;
+}
+
+.aboutmetext>p
+{
+    text-align: justify;
+}
+
+h3
+{
+    font-size: 35px;
+    margin:0;
+    padding: 5px 0;
+}
+
+footer
+{
+    background-color: #2d2d2d;
+    text-align: center;
+    width:100%;
+    padding:10px;
+    position: fixed;
+    bottom: 0px;
+}
+
+main
+{
+    margin-top:50px;
+    margin-bottom:35px;
+}
+
+.galeria
+{
+    width: 200px;
+	height: 200px;
+	float: left;
+}
+.video
+{
+    width: 200px;
+	height: 200px;
+	float: left;
+}
+.audio
+{
+    width: 200px;
+	height: 200px;
+	float: left;
+}
+.rss
+{
+    width: 200px;
+	height: 200px;
+	float: left;
+}
+
+.galeria:hover
+{
+    background-color:#252526;
+    color: #663fa5d5;
+}
+
+.video:hover
+{
+    background-color:#252526;
+    color: #663fa5d5;
+}
+
+.audio:hover
+{
+    background-color:#252526;
+    color: #663fa5d5;
+}
+
+.rss:hover
+{
+    background-color:#252526;
+    color: #663fa5d5;
+}
+
+.panel a
+{
+	color: #ffffff;
+	text-decoration: none;
+    display: block;
+    padding :0;
+}
+
+a
+{
+	color: #ffffff;
+	text-decoration: none;
+    padding :3px;
+}
+
+li:hover > a
+{
+	color: #663fa5d5;
+}
+.linkirss
+{
+    list-style-type: none;
+    text-align: left;
+}
+
+.foto
+{
+    float: left;
+}
+
+.foto>a>img
+{
+    width:230px;
+    height:230px;
+    padding: 10px;
+}
+
+.margines
+{
+    min-height: 45px;
+}
+
+.aboutmeramka>p>a:hover
+{
+    color: #865fc5;
+}
+
+video
+{
+    width: 80%;
+}

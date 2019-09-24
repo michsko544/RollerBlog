@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Proszê podaæ nazwê u¿ytkownika oraz has³o."
+AuthUserFile /home/TM/TI2/skorus/public_html/.htpasswd
+Require valid-user

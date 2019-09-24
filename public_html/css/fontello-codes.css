@@ -1,0 +1,5 @@
+
+.icon-picture:before { content: '\e800'; } /* '' */
+.icon-videocam:before { content: '\e801'; } /* '' */
+.icon-volume-up:before { content: '\e802'; } /* '' */
+.icon-rss-squared:before { content: '\f143'; } /* '' */

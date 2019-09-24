@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+
+<title>RollerBlog - Kanał RRS plików video</title>
+<link>http://bsd.iele.polsl.pl/~skorus/video/</link>
+<description>RollerBlog RSS video</description>
+<language>pl-pl</language>
+<copyright>Copyright 2019 by Michał Skorus</copyright>
+
+<item>
+<title>Freestyle slalom i freeride</title>
+<pubDate>Mon, 22 Apr 2019 00:00:00 GMT</pubDate>
+<link>http://bsd.iele.polsl.pl/~skorus/video/1/VideoShots480.mp4</link> 
+<description>Pokaz jazdy freestyle slalom i freeride.</description>
+<guid>http://bsd.iele.polsl.pl/~skorus/video/1/VideoShots480.mp4</guid>
+<enclosure url="http://bsd.iele.polsl.pl/~skorus/video/1/VideoShots480.mp4" length="58735948" type="video/mp4"></enclosure>
+</item>
+
+<item>
+<title>Poradnik jazdy na rolkach cz.1</title>
+<pubDate>Mon, 22 Apr 2019 00:00:00 GMT</pubDate>
+<link>http://bsd.iele.polsl.pl/~skorus/video/2/video2.mp4</link> 
+<description>Poradnik do nauki jazdy cz.1</description>
+<guid>http://bsd.iele.polsl.pl/~skorus/video/2/video2.mp4</guid>
+<enclosure url="http://bsd.iele.polsl.pl/~skorus/video/2/video2.mp4" length="27221022" type="video/mp4"></enclosure>
+</item>
+
+<item>
+<title>Poradnik jazdy na rolkach cz.2</title>
+<pubDate>Mon, 22 Apr 2019 00:00:00 GMT</pubDate>
+<link>http://bsd.iele.polsl.pl/~skorus/video/3/video3.mp4</link> 
+<description>Poradnik do nauki jazdy, hamowania oraz triku freestyle slalom.</description>
+<guid>http://bsd.iele.polsl.pl/~skorus/video/3/video3.mp4</guid>
+<enclosure url="http://bsd.iele.polsl.pl/~skorus/video/3/video3.mp4" length="24917697" type="video/mp4"></enclosure>
+</item>
+
+</channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+
+<title>RollerBlog - Kanał RRS plików audio</title>
+<link>http://bsd.iele.polsl.pl/~skorus/audio/</link>
+<description>RollerBlog RSS audio</description>
+<language>pl-pl</language>
+<copyright>Copyright 2019 by Michał Skorus</copyright>
+
+<item>
+<title>Dobór rolek</title>
+<pubDate>Mon, 22 Apr 2019 00:00:00 GMT</pubDate>
+<link>http://bsd.iele.polsl.pl/~skorus/audio/1/dobor_rolek.mp3</link> 
+<description>Poradnik głosowy do wybrania rolek.</description>
+<guid>http://bsd.iele.polsl.pl/~skorus/audio/1/dobor_rolek.mp3</guid>
+<enclosure url="http://bsd.iele.polsl.pl/~skorus/audio/1/dobor_rolek.mp3" length="1264608" type="audio/mp3"></enclosure>
+</item>
+
+<item>
+<title>Nauka podstawowych trików freestyle slalom</title>
+<pubDate>Mon, 22 Apr 2019 00:00:00 GMT</pubDate>
+<link>http://bsd.iele.polsl.pl/~skorus/audio/2/nauka_freestyle1.mp3</link> 
+<description>Poradnik głosowy do nauki jazdy freestyle slalom cz. 1.</description>
+<guid>http://bsd.iele.polsl.pl/~skorus/audio/2/nauka_freestyle1.mp3</guid>
+<enclosure url="http://bsd.iele.polsl.pl/~skorus/audio/2/nauka_freestyle1.mp3" length="1213632" type="audio/mp3"></enclosure>
+</item>
+
+<item>
+<title>Nauka zaawansowanych trików freestyle slalom</title>
+<pubDate>Mon, 22 Apr 2019 00:00:00 GMT</pubDate>
+<link>http://bsd.iele.polsl.pl/~skorus/audio/3/nauka_freestyle2.mp3</link> 
+<description>Poradnik głosowy do nauki jazdy freestyle slalom cz. 2.</description>
+<guid>http://bsd.iele.polsl.pl/~skorus/audio/3/nauka_freestyle2.mp3</guid>
+<enclosure url="http://bsd.iele.polsl.pl/~skorus/audio/3/nauka_freestyle2.mp3" length="1285200" type="audio/mp3"></enclosure>
+</item>
+
+</channel>
+</rss>
